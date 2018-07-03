@@ -1,4 +1,3 @@
-// This file was created by Pavlo Koliadenko, OM-3 student. All rights reserved.
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
